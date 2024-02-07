@@ -1,0 +1,6 @@
+import cn.hutool.poi.excel.ExcelWriter;
+public class FunctionUse9401 {
+public void funcUse() {
+ExcelWriter excelwriter = new ExcelWriter();
+}
+}
